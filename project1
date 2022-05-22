@@ -7,5 +7,8 @@ pull 測試
 abcb
 pull test 2
 dev 的版本
-我在main改東西
-
+--這邊以下是my-test的東西---
+專屬給my-test的訊息
+我的push 裡面有加 -u
+--這邊以上是my-test的東西---
+我選擇了把main branch有conflict的東西刪掉，在merge一次
