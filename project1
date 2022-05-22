@@ -12,3 +12,4 @@ dev 的版本
 我的push 裡面有加 -u
 --這邊以上是my-test的東西---
 我選擇了把main branch有conflict的東西刪掉，在merge一次
+pull main 1234567890
